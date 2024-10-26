@@ -18,4 +18,5 @@ I hold multiple AWS certifications, including AWS Certified Solutions Architect 
 ### 🔧 Built DevOps Pipeline using Azure DevOps and Code Repository to Deploy Resources in AWS Environment
 Designed and implemented a robust DevOps pipeline on the **Azure platform**, leveraging **Azure DevOps** for continuous integration and continuous delivery (CI/CD). The solution utilized **Azure Repos** for source code management and **Azure Pipelines** to automate build, test, and deployment processes. The entire DevOps pipeline was automated using **Terraform Infrastructure as Code (IaC)**, allowing for consistent and repeatable deployments of infrastructure and applications in an **AWS** environment. Resources were deployed in a secure manner, ensuring best practices for security and compliance. By fully utilizing Terraform, the pipeline ensured scalable, reliable, and efficient deployments while minimizing manual intervention and reducing deployment time.
 
+![Local Image](projects/Code Artifacts Integration Diagram.png)
 
