@@ -26,7 +26,11 @@ AWS Cognito does not provide native disaster recovery support, making it challen
 
 #### Migration Approaches
 
-##### A. On-Demand User Migration 🔄
+<div style="display: flex; align-items: center;">
+
+#### A. On-Demand User Migration 🔄
+
+<img src="projects/IDaaS/IDaaS_Design v0.1_Approach_A.png" alt="On-Demand Migration" width="750" style="margin-right: 20px;"/>
 
 - **Overview**: Users are migrated to PingID as they log in or access services.
 - **Process**:
@@ -46,9 +50,13 @@ AWS Cognito does not provide native disaster recovery support, making it challen
   - Potential delays during first login ⏳.
   - Need for robust error handling ⚠️.
 
+</div>
 ---
+<div style="display: flex; align-items: center;">
 
 ##### B. Bulk User Migration 📊
+
+<img src="projects/IDaaS/IDaaS_Design_Approach_2.png" alt="Bulk Migration" width="750" style="margin-right: 20px;"/>
 
 - **Overview**: All user accounts are migrated to PingID in a single operation.
 - **Process**:
@@ -66,3 +74,4 @@ AWS Cognito does not provide native disaster recovery support, making it challen
 - **Challenges**:
   - High initial workload for IT teams ⚙️.
   - Potential downtime during migration ⏳.
+</div>
