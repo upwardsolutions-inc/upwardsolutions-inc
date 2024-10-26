@@ -1,4 +1,4 @@
-## User Migration from AWS Cognito to PingID
+### 🔄 User Migration from AWS Cognito to PingID
 ### Problem Statement
 AWS Cognito does not provide native disaster recovery support, making it challenging for organizations to ensure business continuity in the event of service disruptions or data loss. Implementing a custom disaster recovery solution within AWS Cognito can be tedious and resource-intensive, leading to potential risks and inefficiencies in managing user authentication and identity management. To address these limitations and enhance security, scalability, and disaster recovery capabilities, PingID has been chosen as a replacement for AWS Cognito.
 
