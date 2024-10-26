@@ -11,3 +11,9 @@ I hold multiple AWS certifications, including AWS Certified Solutions Architect 
 🚀 Upward Solutions Inc. is a forward-thinking IT consulting firm dedicated to guiding businesses through digital transformation with a strategic focus on cloud solutions, security, and IT governance. Our mission is to enable our clients to navigate complex cloud environments, optimize their operations, and achieve long-term success. With extensive experience in AWS, Azure, and GCP, we offer comprehensive consulting services in cloud architecture, security, and solution design.
 
 📚 At Upward Solutions Inc., we believe in the power of knowledge and continuous learning. That’s why we also focus on training and certification preparation, helping professionals and businesses stay ahead in an evolving digital landscape. Whether you are looking to enhance your cloud infrastructure, secure your data, or upskill your team, we are here to provide tailored solutions to meet your unique needs.
+
+
+## 🚀 Projects
+
+### 🔧 Built DevOps Pipeline using Azure DevOps and Code Repository to Deploy Resources in AWS Environment
+Designed and implemented a robust DevOps pipeline on the **Azure platform**, leveraging **Azure DevOps** for continuous integration and continuous delivery (CI/CD). The solution utilized **Azure Repos** for source code management and **Azure Pipelines** to automate build, test, and deployment processes. The entire DevOps pipeline was automated using **Terraform Infrastructure as Code (IaC)**, allowing for consistent and repeatable deployments of infrastructure and applications in an **AWS** environment. Resources were deployed in a secure manner, ensuring best practices for security and compliance. By fully utilizing Terraform, the pipeline ensured scalable, reliable, and efficient deployments while minimizing manual intervention and reducing deployment time.
